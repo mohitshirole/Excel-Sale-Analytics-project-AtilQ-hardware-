@@ -2,7 +2,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]((https://github.com/mohitshirole/Excel-Sale-Analytics-project-AtilQ-hardware-/blob/main/Customer%20Performance%20report.pdf))_
+    **1.** Create a _[customer performance report](https://github.com/mohitshirole/Excel-Sale-Analytics-project-AtilQ-hardware-/blob/main/Customer%20Performance%20report.pdf)_
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/mohitshirole/Excel-Sale-Analytics-project-AtilQ-hardware-/blob/main/Market%20Performence%20Vs%20Target%20Report.pdf)_
 
