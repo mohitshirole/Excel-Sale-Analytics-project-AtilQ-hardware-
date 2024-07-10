@@ -1,13 +1,10 @@
-# Excel-Sale-Analytics-project-AtilQ-hardware
-
-## Sales Report :
-
+# Excel-Sales-Analytics-Project-AtliQ-Hardware
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]https://github.com/mohitshirole/Excel-Sale-Analytics-project-AtilQ-hardware-/blob/main/Customer%20Performance%20report.pdf
+    **1.** Create a _[customer performance report](https://github.com/mohitshirole/Excel-Sales-Analytics-AtliQ-Hardware/blob/main/Customer%20Performance%20Report.pdf)_
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]https://github.com/mohitshirole/Excel-Sale-Analytics-project-AtilQ-hardware-/blob/main/Market%20Performence%20Vs%20Target%20Report.pdf
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/mohitshirole/Excel-Sale-Analytics-project-AtilQ-hardware-/blob/main/Market%20Performence%20Vs%20Target%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -20,9 +17,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]https://github.com/mohitshirole/Excel-Sale-Analytics-project-AtilQ-hardware-/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/mohitshirole/Excel-Sale-Analytics-project-AtilQ-hardware-/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf)_ & _[Months](https://github.com/mohitshirole/Excel-Sale-Analytics-project-AtilQ-hardware-/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]https://github.com/mohitshirole/Excel-Sale-Analytics-project-AtilQ-hardware-/blob/main/P%26L%20Statement%20by%20Markets.pdf
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/mohitshirole/Excel-Sale-Analytics-project-AtilQ-hardware-/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
